@@ -1,0 +1,33 @@
+h1 {
+    font-size: 65px;
+    color: orange ;
+    font-family: sans-serif;
+    text-align:center;
+    text-decoration: solid;
+  }
+  
+  p {
+    font-weight: 600px;
+    font-size: 48px;
+    }
+
+    
+  .corDeFundo {
+    background-color: blue;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 500%;
+  }
+
+  .amarelo {
+    background-color: #FFD700;
+  }
+  .vermelho {
+    background-color: red;
+  }
+
+  .marrom {
+    background-color: yellow;
+  }
